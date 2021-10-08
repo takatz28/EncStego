@@ -15,8 +15,8 @@ will be created in said folder.
 ___________________________________________
 ### Versions:
 * Version 1.0
-  * Can hide text and small images in a grayscale bitmap image using the combination of Huffman 
-  encoding and least-significant bit embedding methods
+  * Can hide text and B/W images using the combination of Huffman encoding and least-
+  significant bit embedding methods
 * Version 2.0
   * Added the DiffMatrix3 and DiffToOrig3 functions to be able to hide and decode RGB images.
   * Added the Instructions and About menu tabs under the Help section and removed the encode/decode steps in the main windows.
