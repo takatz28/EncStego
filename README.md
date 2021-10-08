@@ -11,11 +11,14 @@ hiding a secret image or text inside a cover bitmap image.
 * You must have MATLAB R2017a or later installed to be able to use the program
 * The .zip file containing the app and its required functions can be unzipped in the
 user’s desired folder. After running the app for the first time, the necessary folders
-will be created in the said folder.
+will be created in said folder.
 ___________________________________________
-### Revisions:
+### Versions:
+* Version 1.0
+  * Can hide text and small images in a grayscale bitmap image using the combination of Huffman 
+  encoding and least-significant bit embedding methods
 * Version 2.0
-  * Added the DiffMatrix3 and DiffToOrig3 functions to be able to hide and decode RGB images, respectively.
+  * Added the DiffMatrix3 and DiffToOrig3 functions to be able to hide and decode RGB images.
   * Added the Instructions and About menu tabs under the Help section and removed the encode/decode steps in the main windows.
   * Added an _integrity check_ in the “Hide Media” function to ensure that the Huffman code stream is embedded properly.
   * Fixed bugs that existed in the previous version.
