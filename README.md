@@ -6,11 +6,11 @@ hiding a secret image or text inside a cover bitmap image.
 ##### Features
 * Media hiding
 <p align="center">
-  <img width="460" height="300" src="https://github.com/takatz28/EncStego/blob/master/docs/hide_media.JPG">
+  <img width="640" height="480" src="https://github.com/takatz28/EncStego/blob/master/docs/hide_media.JPG">
 </p>
 * Secret decoding
 <p align="center">
-  <img width="460" height="300" src="https://github.com/takatz28/EncStego/blob/master/docs/decode_media.JPG">
+  <img width="640" height="480" src="https://github.com/takatz28/EncStego/blob/master/docs/decode_media.JPG">
 </p>
 
 ##### Notes  
