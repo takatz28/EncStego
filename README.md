@@ -19,8 +19,8 @@ hiding a secret image or text inside a cover bitmap image.
 user’s desired folder. After running the app for the first time, the necessary folders
 will be created in said folder.
 
-### Changelog:
 ___________________________________________
+### Changelog:
 * Version 2.0
   * Added the DiffMatrix3 and DiffToOrig3 functions to be able to hide and decode RGB images.
   * Added the Instructions and About menu tabs under the Help section and removed the encode/decode steps in the main windows.
